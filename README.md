@@ -54,7 +54,7 @@ Junior AI Engineer | Async Python Backend | Systems-разработчик
 ## 📫 Контакты
 - GitHub: None | str = ["cd ~"](https://github.com/BookWormDevid)
 - LinkedIn: None 
-- Email: Optional(str) = ["Apple"](kot.d.a@icloud.conn)
+- Email: Optional(str) = "kot.d.a@icloud.conn"
 - Telegram: Optional(str) = "@Devid_Book_Worm"
 <!---
 BookWormDevid/BookWormDevid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
