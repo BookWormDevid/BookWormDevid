@@ -39,7 +39,7 @@ Junior AI Engineer | Async Python Backend | Systems-разработчик
 - Продвинутые паттерны async/concurrency
 - Model serving и AI-инфраструктуру
 - Dishka, Neovim, AB Тесты
-- MLOPs **[MLOps](https://github.com/BookWormDevid/T25--4m_MLOp)**
+- **[MLOps](https://github.com/BookWormDevid/T25--4m_MLOp)**
 - JS и TS
 - Stable Diffusion
 
