@@ -52,7 +52,7 @@ Junior AI Engineer | Async Python Backend | Systems-разработчик
 ---
 
 ## 📫 Контакты
-- GitHub: None | str = ["cd .."](https://github.com/BookWormDevid)
+- GitHub: None | str = ["cd ~"](https://github.com/BookWormDevid)
 - LinkedIn: None 
 - Email: Optional(str) = ["Apple"](kot.d.a@icloud.conn)
 - Telegram: Optional(str) = "@Devid_Book_Worm"
